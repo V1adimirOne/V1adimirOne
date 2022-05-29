@@ -4,6 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiro+Bangla&size=25&color=000000&background=FFFFFF&multiline=true&height=100&lines=I'am+a+beginner+Python+Developer;Here+are+my+tutorial)](https://git.io/typing-svg)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/O_N_E_7000)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 𝒯𝑒𝒸𝒽𝓃𝑜𝓁𝑜𝑔𝓎 𝓈𝓉𝒶𝒸𝓀:
 #### 𝐵𝒶𝒸𝓀-𝑒𝓃𝒹:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
